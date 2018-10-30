@@ -139,5 +139,6 @@ if win_flag:
     
     if letturns == 0:
       print 'You Died.'
+     print 'and so forth did the little man go through the woods'
 
    
